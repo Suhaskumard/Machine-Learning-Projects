@@ -10,7 +10,7 @@ This project is a Machine Learning-based Resume Classification System that autom
 * Software Engineering
 
 It leverages Natural Language Processing (NLP) and supervised learning techniques to analyze resume text and predict the most relevant job category.
-
+  
 ---
 
 ## 🧠 Tech Stack
