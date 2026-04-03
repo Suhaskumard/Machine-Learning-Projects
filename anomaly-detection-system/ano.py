@@ -6,7 +6,7 @@ from sklearn.svm import OneClassSVM
 from sklearn.preprocessing import StandardScaler
 from sklearn.decomposition import PCA
 import matplotlib.pyplot as plt
-
+ 
 # -----------------------------
 # CONFIG
 # -----------------------------
