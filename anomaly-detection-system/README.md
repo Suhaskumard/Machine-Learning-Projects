@@ -12,7 +12,7 @@ It supports:
 
 The system performs preprocessing, anomaly detection, model comparison, and visualization.
 
----
+--- 
 
 ## 🎯 Features
 
