@@ -8,7 +8,7 @@ This project performs sentiment analysis on movie reviews using Deep Learning (L
 
 train.csv / test.csv must contain:
 
-| review                  | sentiment |
+| review                  | sentiment | 
 |------------------------|----------|
 | \"Great movie!\"         | 1        |
 | \"Worst film ever\"      | 0        |
