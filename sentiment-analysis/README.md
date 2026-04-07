@@ -12,7 +12,7 @@ train.csv / test.csv must contain:
 |------------------------|----------|
 | \"Great movie!\"         | 1        |
 | \"Worst film ever\"      | 0        |
-
+ 
 ---
 
 ## ⚙️ Installation
