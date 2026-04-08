@@ -10,7 +10,7 @@ train.csv / test.csv must contain:
 
 | review                  | sentiment | 
 |------------------------|----------|
-| \"Great movie!\"         | 1        |
+| \"Great movie!\"         | 1        | 
 | \"Worst film ever\"      | 0        |
  
 ---
