@@ -84,6 +84,3 @@ Focus on Recall & Precision.
 
 ---
 
-## 👨‍💻 Author
-
-Suhas Kumar
