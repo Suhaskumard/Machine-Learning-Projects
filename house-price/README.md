@@ -115,8 +115,4 @@ prediction = model_pipeline.predict([features])
 
 ---
 
-## 👨‍💻 Author
 
-Suhas Kumar
-
-**This project demonstrates production ML engineering skills - perfect for resumes & interviews!** 🔥
