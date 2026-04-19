@@ -121,6 +121,3 @@ Saved preview to: .../prediction_sample.png
 - Add model comparison with SVM or Random Forest
 - Save training metrics to a log file
 
-## License
-
-This project is open for personal learning and experimentation.
