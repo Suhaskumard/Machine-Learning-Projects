@@ -198,6 +198,3 @@ The final column, `activity`, must contain numeric labels from `0` to `5`.
 - Add a simple web dashboard for predictions
 - Convert the trained model to TensorFlow Lite for mobile or edge deployment
 
-## Author
-
-Suhas Kumar
