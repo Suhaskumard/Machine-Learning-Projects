@@ -9,7 +9,7 @@ The system is designed around a Human Activity Recognition (HAR) workflow using 
 The model predicts one of the following activities:
 
 | Label | Activity |
-| --- | --- |
+| --- | --- | 
 | 0 | WALKING |
 | 1 | WALKING_UPSTAIRS |
 | 2 | WALKING_DOWNSTAIRS |
