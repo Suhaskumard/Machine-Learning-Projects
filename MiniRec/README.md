@@ -84,9 +84,3 @@ Movie IDs: [123, 456, 789, 101, 202]
 | Prediction Method | Weighted sum of similar users' ratings |
 | Recommendation Strategy | Top-N highest predicted ratings |
 
----
-*Built with ❤️ using collaborative filtering*
-- Deploy with FastAPI
-- Add matrix factorization (SVD)
-- Build frontend UI
-
