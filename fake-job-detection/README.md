@@ -158,7 +158,3 @@ To use your own dataset:
 2. Ensure columns: `description`, `fraudulent`
 3. Run `python train_model.py` to retrain
 
-## License
-
-This project is open-source and available for educational and commercial use.
-
